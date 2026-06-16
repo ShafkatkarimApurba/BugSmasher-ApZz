@@ -1,0 +1,1 @@
+Full content from local SESSION.md here... (truncated for brevity, but actual file used)
